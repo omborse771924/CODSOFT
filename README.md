@@ -1,8 +1,7 @@
-University Attendance App (starter)
-----------------------------------
-Android / Kotlin starter (Firebase Authentication + Firestore).
-Steps:
-  1. Create Android Studio project 'attendance-app'
-  2. Register project in Firebase console, enable Email/Password auth, add google-services.json
-  3. Add firebase-auth-ktx and firestore-ktx dependencies
-  4. Copy provided data models and simple auth/register snippets.
+Window Notification (Java Swing)
+--------------------------------
+This is a simple Java Swing program that shows a popup notification window.
+To run:
+  1. Use IntelliJ IDEA / Eclipse / javac+java
+  2. javac NotificationWindow.java
+  3. java NotificationWindow
